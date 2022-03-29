@@ -1,1 +1,6 @@
+#include <bits/stdc++.h> // this adds everything in the library
+using namespace std;
 
+main() {
+
+}
